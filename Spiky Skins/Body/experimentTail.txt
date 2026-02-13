@@ -35,7 +35,7 @@
  1 SpriteRenderData m_RD
   0 PPtr<Texture2D> texture
    0 int m_FileID = 0
-   0 SInt64 m_PathID = 237
+   0 SInt64 m_PathID = 238
   0 PPtr<Texture2D> alphaTexture
    0 int m_FileID = 0
    0 SInt64 m_PathID = 0
@@ -347,7 +347,7 @@
    0 float x = 0
    0 float y = 0
    0 float width = 54
-   0 float height = 36
+   0 float height = 22
   0 Vector2f textureRectOffset
    0 float x = 0
    0 float y = 0

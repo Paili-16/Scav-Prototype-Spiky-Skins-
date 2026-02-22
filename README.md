@@ -1,4 +1,4 @@
-# The System file assets Noter.
+# The System file assets for Notes.
 
 ### The Player Skins (Spiky):
 Expie, Dark blue color skins and have sprites folder can also see how is png images was.
